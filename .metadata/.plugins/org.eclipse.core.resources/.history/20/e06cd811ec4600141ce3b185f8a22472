@@ -1,0 +1,18 @@
+
+import org.junit.BeforeClass;
+
+import cn.chinaunicom.woplus.openapi.java.*;
+
+public class AppTest {
+
+	static WoPlusClient client;
+	
+	@BeforeClass
+	public static void config(){
+		
+		client = new WoPlusClient(appKey,appSecret);
+		
+		
+		
+	}
+}

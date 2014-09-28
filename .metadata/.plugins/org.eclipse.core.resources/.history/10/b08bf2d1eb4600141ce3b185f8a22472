@@ -1,0 +1,12 @@
+
+public class AppTest {
+
+	static WoPlusClient client;
+	
+	@BeforeClass
+	public static void config(){
+		
+		
+		
+	}
+}

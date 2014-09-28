@@ -1,0 +1,25 @@
+
+import org.junit.BeforeClass;
+
+import cn.chinaunicom.woplus.openapi.java.*;
+
+public class AppTest {
+	private static final String appKey="4ce73b59a95840baa3e7095b00a9fdc4";
+	private static final String appSecret="7e0c0e7a7c1d4316";
+	
+	private static final String platformID="501e9618-4305-4834-8847-d8044f8bad28";
+	private static final String password ="abcd1234";
+	
+	static WoPlusClient client;
+	
+	@BeforeClass
+	public static void config(){
+		
+		client = new WoPlusClient(appKey,appSecret);
+		
+	}
+	
+	public void a_channel_getchannelpaymentsms(){
+		
+	}
+}
