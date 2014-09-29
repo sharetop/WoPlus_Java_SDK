@@ -1,6 +1,7 @@
 package cn.chinaunicom.woplus.openapi.java;
 
 import java.io.UnsupportedEncodingException;
+import java.net.URLEncoder;
 import java.security.InvalidKeyException;
 import java.security.NoSuchAlgorithmException;
 import java.util.Comparator;
@@ -20,7 +21,46 @@ import org.apache.commons.codec.binary.Base64;
  * 
  * */
 public class EMCSign {
+	static org.apache.log4j.Logger logger=org.apache.log4j.Logger.getLogger(EMCSign.class);
+	
+	public static String signOAuthValue(String method,String uri,HashMap<String,Object> params,String secretKey){
+		String password=null;
+		
+		TreeMap<String,Object> tmap = new TreeMap<String,Object>(new Comparator<String>(){
 
+			public int compare(String k1, String k2) {
+				// TODO Auto-generated method stub
+				return k1.toLowerCase().compareTo(k2.toLowerCase());
+			}});
+		tmap.putAll(params);
+		
+		try {
+			StringBuilder sb=new StringBuilder();
+			sb.append(method)
+			.append("&");
+			
+			sb.append(URLEncoder.encode(uri, "UTF-8"))
+			.append("&");
+			
+			StringBuilder sb2=new StringBuilder();
+			for(Object key :tmap.keySet()){
+				sb2.append("&")
+				.append(key)
+				.append("=")
+				.append(tmap.get(key));
+			}
+			sb.append(URLEncoder.encode(sb2.toString().substring(1),"UTF-8"));
+			
+			String signStr = sb.toString();
+			logger.debug(signStr);
+			
+			password = checkMsgDigest(signStr, secretKey);
+		      
+		 } catch (Exception e) {
+		      e.printStackTrace();
+		 }
+		 return password;
+	}
 	/**
 	 * 生成签名字串
 	 * @param params 参数集合
@@ -48,7 +88,6 @@ public class EMCSign {
 				sb.append(tmap.get(key));
 			}
 			String signStr = sb.toString();
-			System.out.println("signStr="+signStr.substring(1));
 			
 			String source = checkMsgDigest(signStr.substring(1), secretKey);
 		    //password = URLEncoder.encode(source, "UTF-8");

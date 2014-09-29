@@ -16,7 +16,7 @@ public class Authenticate {
 	private static Authenticate ainstance=null;
 	private Authenticate(){
 		//测试数据
-		tokenMap.put("4ce73b59a95840baa3e7095b00a9fdc4", new Token("24f1fc2e1a4821d83b562f6a66c771f55a544cec",2592000));
+		tokenMap.put("6fabfc63e6f1d23ee28172fc88ee24ca8ef7e044", new Token("83fe0d812cc3baf4850c9129820a737e17388571",2592000));
 	}
 	
 	public static Authenticate getInstance(){
@@ -93,9 +93,12 @@ public class Authenticate {
 	 * 
 	 * */
 	public HashMap<String,String> getAuthorization(){
+		String tk = getToken();
+		if(tk==null) return null;
+		
 		HashMap<String,String> auth = new HashMap<String,String>();
 		auth.put("appKey", appKey);
-		auth.put("token", getToken());
+		auth.put("token", tk);
 		return auth;
 	}
 	

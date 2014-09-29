@@ -1,6 +1,8 @@
 package cn.chinaunicom.woplus.openapi.java;
 
+import java.net.URLEncoder;
 import java.util.HashMap;
+import java.util.TreeMap;
 
 import org.apache.http.HttpEntity;
 import org.apache.http.client.methods.CloseableHttpResponse;
@@ -43,9 +45,10 @@ public class WoPlusClient {
 	public WoPlusResponse post(String api_url,HashMap<String,Object> params) throws Exception{
 		
 		HashMap<String,String> auth = Authenticate.getInstance().getAuthorization();
+		if(auth==null) throw new Exception("Token is Null");
 		
-		String secrectKey=Authenticate.getInstance().getAppKey()+"&"+Authenticate.getInstance().getAppSecret();
-		String signature = EMCSign.signValue(params, secrectKey);
+		String secretKey=Authenticate.getInstance().getAppKey()+"&"+Authenticate.getInstance().getAppSecret();
+		String signature = EMCSign.signValue(params, secretKey);
 		
 		params.put("signType", "HMAC-SHA1");
 		params.put("signature", signature);
@@ -67,8 +70,8 @@ public class WoPlusClient {
 		
 		HashMap<String,String> auth = Authenticate.getAuthorizationWithPlatform(platform, password);
 		
-		String secrectKey=platform+"&"+password;
-		String signature = EMCSign.signValue(params, secrectKey);
+		String secretKey=platform+"&"+password;
+		String signature = EMCSign.signValue(params, secretKey);
 		
 		params.put("signType", "HMAC-SHA1");
 		params.put("signature", signature);
@@ -85,8 +88,30 @@ public class WoPlusClient {
 	public WoPlusResponse get(String api_url,HashMap<String,Object> params) throws Exception{
 		
 		HashMap<String,String> auth = Authenticate.getInstance().getAuthorization();
+		if(auth==null) throw new Exception("Token is Null");
+		
 		return getJSONEntity(api_url,auth,params);
 		
+	}
+	
+	public WoPlusResponse getAuthCodeURL(String scope,String redirectURL) throws Exception {
+		String api_url="http://open.wo.com.cn/openapi/authorize/v1.0";
+		
+		String secretKey=Authenticate.getInstance().getAppKey()+"&"+Authenticate.getInstance().getAppSecret();
+		
+		HashMap<String,Object> params = new HashMap<String,Object>();
+		params.put("appKey", Authenticate.getInstance().getAppKey());
+		params.put("scope", scope);
+		params.put("redirectURL", redirectURL);
+		params.put("display", "mobile");
+		
+		String signature = EMCSign.signOAuthValue("GET", api_url, params, secretKey);
+		
+		params.put("oauthSignatureMethod", "HMAC-SHA1");
+		params.put("oauthSignature", signature);
+		
+		WoPlusResponse resp =  getJSONEntity(api_url,null,params);
+		return resp;
 	}
 	
 	/////////////////////////////////
@@ -177,8 +202,10 @@ public class WoPlusClient {
 			sb.append(params.get(key));
 			sb.append("&");
 		}
+		String furl = sb.toString().substring(0, sb.toString().lastIndexOf("&"));
+		logger.debug(furl);
 		
-		HttpGet httpget = new HttpGet(sb.toString());
+		HttpGet httpget = new HttpGet(furl);
 		httpget.addHeader("Content-Type", "application/json;charset=UTF-8");
 		httpget.addHeader("Accept","application/json");
 		
@@ -195,11 +222,15 @@ public class WoPlusClient {
 		
 		try {
 			CloseableHttpResponse response =  httpclient.execute(httpget);
+			logger.debug(response.getStatusLine().getStatusCode());
 			try{
 				HttpEntity respEntity = response.getEntity();
 				if (respEntity != null) {
 					body = EntityUtils.toString(respEntity); 
 					logger.debug(body);
+				}
+				else{
+					logger.debug(response.getHeaders("Location"));
 				}
 			} finally {
 			    response.close();

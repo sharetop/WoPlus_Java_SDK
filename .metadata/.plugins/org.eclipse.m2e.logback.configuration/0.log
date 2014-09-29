@@ -166,3 +166,391 @@
 2014-09-28 16:55:23,397 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
 2014-09-28 16:55:23,398 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2014-09-28 16:55:23,398 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-28 17:13:22,137 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:13:22,138 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-28 17:13:22,139 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:13:22,139 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-28 17:13:29,255 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:13:29,255 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-28 17:13:29,256 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:13:29,257 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-28 17:13:44,248 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:13:44,249 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-28 17:13:44,250 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:13:44,250 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-28 17:15:39,310 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:15:39,310 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-28 17:15:39,311 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:15:39,311 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-28 17:16:00,140 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:16:00,141 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-28 17:16:00,144 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:16:00,144 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-28 17:16:15,782 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:16:15,782 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-28 17:16:15,783 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:16:15,783 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-28 17:19:43,826 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:19:43,826 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-28 17:19:43,827 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:19:43,827 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-28 17:20:22,103 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:20:22,103 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-28 17:20:22,106 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:20:22,107 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-28 17:23:21,704 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:23:21,704 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-28 17:23:21,706 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:23:21,706 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-28 17:23:41,155 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:23:41,156 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-28 17:23:41,156 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:23:41,156 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-28 17:24:01,101 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:24:01,101 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-28 17:24:01,102 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:24:01,102 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-28 17:24:04,321 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:24:04,321 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-28 17:24:04,322 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:24:04,323 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-28 17:25:15,833 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:25:15,834 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-28 17:25:15,834 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:25:15,834 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-28 17:25:47,787 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:25:47,788 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-28 17:25:47,788 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:25:47,788 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-28 17:26:13,214 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:26:13,214 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-28 17:26:13,215 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:26:13,215 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-28 17:26:32,417 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:26:32,417 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-28 17:26:32,419 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:26:32,419 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-28 17:28:45,506 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:28:45,506 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-28 17:28:45,507 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:28:45,507 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-28 17:28:52,527 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:28:52,527 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-28 17:28:52,528 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:28:52,528 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-28 17:29:21,346 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:29:21,346 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-28 17:29:21,347 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:29:21,347 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-28 17:29:55,918 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:29:55,919 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-28 17:29:55,919 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:29:55,919 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-28 17:30:30,329 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:30:30,329 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-28 17:30:30,330 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:30:30,330 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-28 17:33:19,061 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:33:19,061 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-28 17:33:19,062 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:33:19,062 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-28 17:33:27,216 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:33:27,217 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-28 17:33:27,217 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:33:27,217 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-28 17:33:35,730 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:33:35,730 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-28 17:33:35,731 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:33:35,732 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-28 17:34:15,280 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:34:15,280 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-28 17:34:15,281 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:34:15,281 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-28 17:34:31,304 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:34:31,304 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-28 17:34:31,304 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:34:31,304 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-28 17:34:52,097 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:34:52,097 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-28 17:34:52,098 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:34:52,098 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-28 17:35:09,334 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:35:09,335 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-28 17:35:09,335 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:35:09,335 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-28 17:35:26,037 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:35:26,037 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-28 17:35:26,038 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:35:26,038 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-28 17:35:33,660 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:35:33,660 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-28 17:35:33,661 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:35:33,661 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-28 17:35:37,228 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:35:37,228 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-28 17:35:37,229 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:35:37,229 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-28 17:35:51,073 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:35:51,074 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-28 17:35:51,074 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:35:51,074 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-28 17:36:03,060 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:36:03,060 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-28 17:36:03,061 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-28 17:36:03,061 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 09:15:08,720 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:15:08,725 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 09:15:08,726 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:15:08,727 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 09:15:27,260 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:15:27,260 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 09:15:27,262 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:15:27,262 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 09:15:46,448 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:15:46,448 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 09:15:46,450 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:15:46,450 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 09:16:43,934 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:16:43,934 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 09:16:43,935 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:16:43,935 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 09:17:05,882 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:17:05,883 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 09:17:05,886 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:17:05,886 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 09:17:32,699 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:17:32,699 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 09:17:32,700 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:17:32,701 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 09:17:47,133 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:17:47,133 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 09:17:47,134 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:17:47,134 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 09:18:27,017 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:18:27,017 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 09:18:27,020 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:18:27,020 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 09:21:48,547 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:21:48,547 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 09:21:48,548 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:21:48,548 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 09:21:59,211 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:21:59,212 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 09:21:59,213 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:21:59,213 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 09:32:59,936 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:32:59,937 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 09:32:59,938 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:32:59,939 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 09:33:11,169 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:33:11,169 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 09:33:11,170 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:33:11,170 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 09:34:20,210 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:34:20,211 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 09:34:20,211 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:34:20,212 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 09:34:43,813 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:34:43,813 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 09:34:43,815 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:34:43,815 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 09:36:47,546 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:36:47,547 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 09:36:47,548 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:36:47,548 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 09:39:35,839 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:39:35,840 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 09:39:35,844 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:39:35,844 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 09:42:44,755 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:42:44,755 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 09:42:44,756 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:42:44,756 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 09:46:28,349 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:46:28,349 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 09:46:28,350 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:46:28,350 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 09:46:33,948 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:46:33,948 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 09:46:33,949 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:46:33,950 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 09:47:03,713 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:47:03,713 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 09:47:03,714 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:47:03,714 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 09:47:15,198 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:47:15,198 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 09:47:15,199 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:47:15,200 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 09:52:53,615 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:52:53,615 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 09:52:53,616 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:52:53,616 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 09:53:06,643 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:53:06,643 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 09:53:06,644 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:53:06,644 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 09:55:33,421 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:55:33,421 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 09:55:33,422 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:55:33,423 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 09:55:43,984 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:55:43,984 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 09:55:43,985 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:55:43,986 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 09:55:49,971 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:55:49,972 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 09:55:49,973 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 09:55:49,973 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 11:16:52,747 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 11:16:52,748 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 11:16:52,748 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 11:16:52,748 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 11:17:16,884 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 11:17:16,884 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 11:17:16,885 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 11:17:16,885 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 12:20:04,850 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 12:20:04,851 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 12:20:04,852 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 12:20:04,852 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 12:21:31,095 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 12:21:31,095 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 12:21:31,096 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 12:21:31,096 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 12:23:04,923 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 12:23:04,923 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 12:23:04,925 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 12:23:04,925 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 13:07:44,669 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:07:44,669 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 13:07:44,670 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:07:44,670 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 13:08:23,905 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:08:23,905 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 13:08:23,906 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:08:23,906 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 13:14:20,206 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:14:20,206 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 13:14:20,207 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:14:20,207 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 13:14:49,617 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:14:49,617 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 13:14:49,617 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:14:49,617 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 13:14:51,198 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:14:51,198 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 13:14:51,199 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:14:51,199 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 13:14:52,683 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:14:52,683 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 13:14:52,684 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:14:52,684 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 13:15:18,918 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:15:18,918 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 13:15:18,918 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:15:18,919 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 13:15:20,189 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:15:20,189 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 13:15:20,190 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:15:20,190 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 13:15:26,068 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:15:26,069 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 13:15:26,070 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:15:26,070 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 13:15:28,169 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:15:28,169 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 13:15:28,170 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:15:28,170 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 13:15:57,674 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:15:57,674 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 13:15:57,675 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:15:57,675 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 13:16:36,197 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:16:36,197 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 13:16:36,198 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:16:36,198 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 13:16:38,222 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:16:38,222 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 13:16:38,223 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:16:38,223 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 13:16:57,675 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:16:57,675 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 13:16:57,676 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:16:57,676 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 13:17:07,805 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:17:07,805 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 13:17:07,806 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:17:07,806 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 13:17:46,096 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:17:46,096 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 13:17:46,097 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:17:46,098 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 13:17:53,210 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:17:53,210 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 13:17:53,211 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:17:53,211 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 13:18:24,718 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:18:24,718 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 13:18:24,719 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:18:24,719 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 13:18:29,370 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:18:29,370 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 13:18:29,371 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:18:29,371 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 13:18:32,902 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:18:32,903 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 13:18:32,904 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:18:32,904 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 13:18:37,948 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:18:37,948 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 13:18:37,949 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:18:37,949 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 13:18:47,827 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:18:47,827 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 13:18:47,828 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:18:47,828 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 13:18:53,159 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:18:53,159 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 13:18:53,160 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:18:53,160 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 13:19:07,843 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:19:07,843 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 13:19:07,844 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:19:07,844 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 13:20:17,046 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:20:17,047 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 13:20:17,050 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:20:17,051 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 13:20:35,564 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:20:35,564 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 13:20:35,565 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:20:35,565 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 13:20:40,027 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:20:40,027 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 13:20:40,027 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:20:40,027 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 13:21:01,900 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:21:01,900 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 13:21:01,901 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:21:01,901 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 13:26:07,327 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:26:07,327 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 13:26:07,328 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:26:07,328 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 13:26:24,212 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:26:24,212 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 13:26:24,213 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:26:24,214 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 13:47:06,487 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:47:06,490 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 13:47:06,492 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:47:06,492 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 13:47:24,296 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:47:24,296 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 13:47:24,297 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:47:24,297 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
+2014-09-29 13:47:44,721 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:47:44,721 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/main/resources
+2014-09-29 13:47:44,725 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-29 13:47:44,725 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK/java-sdk/src/test/resources
