@@ -109,7 +109,7 @@ public class AppTest {
 		
 		HashMap<String,Object> params = new HashMap<String,Object>();
 		params.put("scope", "instantLocation");
-		params.put("number","18601106910");
+		params.put("number","{mobile_number}");
 		
 		try {
 			WoPlusResponse resp = client.post(api_url, params);
