@@ -3,13 +3,15 @@ WoPlus_Java_SDK
 
 用HashMap调用API方法：
 
-### 第一步：初始化WoPlusClient实例，需要提供appKey和appSecret
+### 第一步：
+初始化WoPlusClient实例，需要提供appKey和appSecret
 
     WoPlusClient client;
     client = new WoPlusClient(appKey,appSecret);
 
 
-### 第二步：提供API的地址，参数封到HashMap里，提交请求，得到响应。
+### 第二步：
+提供API的地址，参数封到HashMap里，提交请求，得到响应。
 
     String api_url="http://open.wo.com.cn/openapi/rpc/paymentcodesms/v2.0";
 		
@@ -32,7 +34,8 @@ WoPlus_Java_SDK
 		}
 
 
-### 第三步：WoPlusResponse中的resultCode和resultDescription可以判断调用是否成功。
+### 第三步：
+WoPlusResponse中的resultCode和resultDescription可以判断调用是否成功。
 其它内容在WoPlusResponse的content字段里（HashMap类型）。
 
 
