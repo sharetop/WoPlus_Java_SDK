@@ -1,5 +1,6 @@
 package cn.chinaunicom.woplus.openapi.java;
 
+import java.net.URI;
 import java.net.URLEncoder;
 import java.util.HashMap;
 import java.util.TreeMap;
@@ -94,25 +95,7 @@ public class WoPlusClient {
 		
 	}
 	
-	public WoPlusResponse getAuthCodeURL(String scope,String redirectURL) throws Exception {
-		String api_url="http://open.wo.com.cn/openapi/authorize/v1.0";
-		
-		String secretKey=Authenticate.getInstance().getAppKey()+"&"+Authenticate.getInstance().getAppSecret();
-		
-		HashMap<String,Object> params = new HashMap<String,Object>();
-		params.put("appKey", Authenticate.getInstance().getAppKey());
-		params.put("scope", scope);
-		params.put("redirectURL", redirectURL);
-		params.put("display", "mobile");
-		
-		String signature = EMCSign.signOAuthValue("GET", api_url, params, secretKey);
-		
-		params.put("oauthSignatureMethod", "HMAC-SHA1");
-		params.put("oauthSignature", signature);
-		
-		WoPlusResponse resp =  getJSONEntity(api_url,null,params);
-		return resp;
-	}
+
 	
 	/////////////////////////////////
 	//私有
@@ -153,14 +136,15 @@ public class WoPlusClient {
 		
 		StringBuilder sb=new StringBuilder();
 		for(String k : auth.keySet()){
-			sb.append(k);
-			sb.append("=\"");
-			sb.append(auth.get(k));
-			sb.append("\",");
+			sb.append(",")
+			.append(k)
+			.append("=\"")
+			.append(auth.get(k))
+			.append("\"");
 		}
 		
 		try{
-			httppost.addHeader("Authorization",sb.toString());
+			httppost.addHeader("Authorization",sb.toString().substring(1));
 			
 			httppost.setEntity(entity);
 			System.out.println(EntityUtils.toString(entity));
@@ -197,13 +181,12 @@ public class WoPlusClient {
 		sb.append(api_url);
 		sb.append("?");
 		for(String key:params.keySet()){
-			sb.append(key);
-			sb.append("=");
-			sb.append(params.get(key));
-			sb.append("&");
+			sb.append(key)
+			.append("=")
+			.append(params.get(key))
+			.append("&");
 		}
 		String furl = sb.toString().substring(0, sb.toString().lastIndexOf("&"));
-		logger.debug(furl);
 		
 		HttpGet httpget = new HttpGet(furl);
 		httpget.addHeader("Content-Type", "application/json;charset=UTF-8");
@@ -228,9 +211,6 @@ public class WoPlusClient {
 				if (respEntity != null) {
 					body = EntityUtils.toString(respEntity); 
 					logger.debug(body);
-				}
-				else{
-					logger.debug(response.getHeaders("Location"));
 				}
 			} finally {
 			    response.close();

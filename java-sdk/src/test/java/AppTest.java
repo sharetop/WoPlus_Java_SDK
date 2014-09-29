@@ -60,7 +60,7 @@ public class AppTest {
 		String api_url="http://open.wo.com.cn/openapi/rpc/paymentcodesms/v2.0";
 		
 		HashMap<String,Object> params = new HashMap<String,Object>();
-		params.put("paymentUser", "18601106910");
+		params.put("paymentUser", "{mobile_number}");
 		params.put("paymentType", 0);
 		params.put("outTradeNo","100008");
 		params.put("paymentAcount", "001");
@@ -104,10 +104,15 @@ public class AppTest {
 	}
 	
 	@Test
-	public void d_authcode_authorize(){
+	public void d_authcode_authorizeSMS(){
+		String api_url="http://open.wo.com.cn/openapi/authsms/v1.0";
+		
+		HashMap<String,Object> params = new HashMap<String,Object>();
+		params.put("scope", "instantLocation");
+		params.put("number","18601106910");
 		
 		try {
-			WoPlusResponse resp = client.getAuthCodeURL("instantLocation", "http://www.baidu.com");
+			WoPlusResponse resp = client.post(api_url, params);
 			assertNotNull(resp);
 			assertEquals("0",resp.resultCode);
 			
