@@ -29,6 +29,10 @@ public class WoPlusClient {
 	
 	static org.apache.log4j.Logger logger=org.apache.log4j.Logger.getLogger(WoPlusClient.class);
 	
+	
+	public WoPlusClient(){
+		this(null,null);
+	}
 	/**
 	 * @param appKey 		应用标识
 	 * @param appSecret 	应用密钥
@@ -36,6 +40,7 @@ public class WoPlusClient {
 	public WoPlusClient(String appKey,String appSecret){
 		Authenticate.getInstance().config(appKey, appSecret);
 	}
+	
 	
 	/**
 	 * @param api_url API接口地址

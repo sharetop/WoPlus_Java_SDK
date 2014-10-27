@@ -26,8 +26,8 @@ public class AppTest {
 	@BeforeClass
 	public static void config(){
 		
-		client = new WoPlusClient(appKey,appSecret);
-		
+		//client = new WoPlusClient(appKey,appSecret);
+		client = new WoPlusClient();
 	}
 	
 	@Test
