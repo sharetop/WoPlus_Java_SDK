@@ -41,13 +41,10 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="cn.chinaunicom.woplus.openapi.java"/>
 		</list>
 		<list key="groupId">
-			<item value="cn.chinaunicom.woplus.openapi.java"/>
 		</list>
 		<list key="artifactId">
-			<item value="java-sdk"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -57,7 +54,7 @@
 			<item value="[groupId].[artifactId]-[version]"/>
 		</list>
 		<list key="version">
-			<item value="0.0.1"/>
+			<item value="0.0.1-SNAPSHOT"/>
 		</list>
 	</section>
 </section>

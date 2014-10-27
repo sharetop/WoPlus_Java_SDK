@@ -52,3 +52,77 @@ Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.
 
 !ENTRY org.eclipse.core.net 1 0 2014-09-30 09:34:27.507
 !MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2014-09-30 10:12:29.928
+!MESSAGE Launch configuration AppTest.b_payment_paymentcodesms references closed project java-sdk
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2014-09-30 10:12:29.930
+!MESSAGE Launch configuration AppTest.b_payment_paymentcodesms references closed project java-sdk
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2014-09-30 10:12:29.933
+!MESSAGE Launch configuration AppTest.b_payment_paymentcodesms references closed project java-sdk
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2014-09-30 10:12:29.933
+!MESSAGE Launch configuration AppTest.c_payment_apppayment references closed project java-sdk
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2014-09-30 10:12:29.934
+!MESSAGE Launch configuration AppTest.c_payment_apppayment references closed project java-sdk
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2014-09-30 10:12:29.936
+!MESSAGE Launch configuration AppTest.c_payment_apppayment references closed project java-sdk
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2014-09-30 10:12:29.937
+!MESSAGE Launch configuration AppTest.d_authcode_authorize references closed project java-sdk
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2014-09-30 10:12:29.938
+!MESSAGE Launch configuration AppTest.d_authcode_authorize references closed project java-sdk
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2014-09-30 10:12:29.941
+!MESSAGE Launch configuration AppTest.d_authcode_authorize references closed project java-sdk
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2014-09-30 10:12:29.942
+!MESSAGE Launch configuration AppTest.d_authcode_authorizeSMS references closed project java-sdk
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2014-09-30 10:12:29.943
+!MESSAGE Launch configuration AppTest.d_authcode_authorizeSMS references closed project java-sdk
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2014-09-30 10:12:29.946
+!MESSAGE Launch configuration AppTest.d_authcode_authorizeSMS references closed project java-sdk
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2014-09-30 10:12:29.947
+!MESSAGE Launch configuration AppTest references closed project java-sdk
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2014-09-30 10:12:29.948
+!MESSAGE Launch configuration AppTest references closed project java-sdk
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2014-09-30 10:12:29.952
+!MESSAGE Launch configuration AppTest references closed project java-sdk
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2014-09-30 10:12:29.954
+!MESSAGE Launch configuration AppTest.a_channel_getchannelpaymentsms references closed project java-sdk
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2014-09-30 10:12:29.956
+!MESSAGE Launch configuration AppTest.a_channel_getchannelpaymentsms references closed project java-sdk
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2014-09-30 10:12:29.960
+!MESSAGE Launch configuration AppTest.a_channel_getchannelpaymentsms references closed project java-sdk
+!SESSION 2014-10-11 10:28:13.721 -----------------------------------------------
+eclipse.buildId=4.4.0.I20140606-1215
+java.version=1.8.0_11
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -keyring /Users/yancheng/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -data /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK -product org.eclipse.epp.package.jee.product -keyring /Users/yancheng/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-10-11 10:28:19.203
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2014-10-27 12:52:34.099 -----------------------------------------------
+eclipse.buildId=4.4.0.I20140606-1215
+java.version=1.8.0_11
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -keyring /Users/yancheng/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -data /Volumes/MacintoshDOC/gitHub/WoPlus_Java_SDK -product org.eclipse.epp.package.jee.product -keyring /Users/yancheng/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-10-27 12:52:39.866
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
